@@ -1,1 +1,4 @@
-{  "version": "2.0.0",  "url": "http://nillp.com/ota/firmware.bin"}
+{
+  "version": "2.0.0",
+  "url": "http://nillp.com/ota/firmware.bin"
+}
