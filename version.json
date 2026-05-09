@@ -1,4 +1,4 @@
 {
   "version": "2.0.0",
-  "url": "http://nillp.com/ota/firmware.bin"
+  "url": "https://raw.githubusercontent.com/dtxlaser/ESP32-OTA-Update/refs/heads/main/ota/firmware.bin"
 }
